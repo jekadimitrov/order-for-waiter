@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#FFDFDFDF"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        android:weightSum="1">
+        <LinearLayout
+            android:layout_height="196dp"
+            android:layout_width="fill_parent">
+            <ListView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/list1" />
+
+        </LinearLayout>
+        <LinearLayout
+
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_weight="0.46">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADD Item"
+                android:textColor="#FF03A9F4"
+                android:id="@+id/bitem"
+                android:layout_marginLeft="150dp" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Add Order"
+                android:id="@+id/border"
+                android:textColor="#FF03A9F4"
+                android:layout_below="@+id/bitem"
+                 />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

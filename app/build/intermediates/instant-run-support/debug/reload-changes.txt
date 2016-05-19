@@ -1,0 +1,12 @@
+CHANGED,D:\Users\EVGEN\AndroidStudioProjects\MyRest2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\evgen\myrest\R$menu$override.class
+CHANGED,D:\Users\EVGEN\AndroidStudioProjects\MyRest2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\evgen\myrest\R$layout$override.class
+CHANGED,D:\Users\EVGEN\AndroidStudioProjects\MyRest2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\evgen\myrest\R$id$override.class
+CHANGED,D:\Users\EVGEN\AndroidStudioProjects\MyRest2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\evgen\myrest\R$integer$override.class
+CHANGED,D:\Users\EVGEN\AndroidStudioProjects\MyRest2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\evgen\myrest\MessageOrder1$override.class
+CHANGED,D:\Users\EVGEN\AndroidStudioProjects\MyRest2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\evgen\myrest\Tab1$override.class
+CHANGED,D:\Users\EVGEN\AndroidStudioProjects\MyRest2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\Users\EVGEN\AndroidStudioProjects\MyRest2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\evgen\myrest\Tab2$override.class
+CHANGED,D:\Users\EVGEN\AndroidStudioProjects\MyRest2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\evgen\myrest\R$styleable$override.class
+CHANGED,D:\Users\EVGEN\AndroidStudioProjects\MyRest2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\evgen\myrest\R$mipmap$override.class
+CHANGED,D:\Users\EVGEN\AndroidStudioProjects\MyRest2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\evgen\myrest\R$style$override.class
+CHANGED,D:\Users\EVGEN\AndroidStudioProjects\MyRest2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\evgen\myrest\R$string$override.class

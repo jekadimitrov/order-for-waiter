@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#FFDFDFDF"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Стол 3"
+        android:id="@+id/btab1"
+        android:textColor="#FF03A9F4"
+        android:layout_alignTop="@+id/btab8"
+        android:layout_alignLeft="@+id/btab5"
+        android:layout_alignStart="@+id/btab5"
+       />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Стол 6"
+        android:textColor="#FF03A9F4"
+        android:id="@+id/btab6"
+        android:layout_alignParentTop="false"
+        android:layout_gravity="right" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Стол 4"
+        android:id="@+id/btab4"
+
+        android:textColor="#FF03A9F4"
+        android:textAlignment="gravity"
+    />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Стол 8"
+        android:textColor="#FF03A9F4"
+        android:id="@+id/btab8"
+
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Стол 5"
+        android:textColor="#FF03A9F4"
+        android:id="@+id/btab5"
+        android:layout_gravity="right" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Стол 2"
+        android:id="@+id/btab2"
+        android:textColor="#FF03A9F4"
+
+        android:textStyle="italic" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Стол 7"
+        android:textColor="#FF03A9F4"
+        android:id="@+id/btab7"
+        android:layout_centerVertical="true"
+
+
+        android:layout_gravity="center_horizontal" />
+
+
+</LinearLayout>

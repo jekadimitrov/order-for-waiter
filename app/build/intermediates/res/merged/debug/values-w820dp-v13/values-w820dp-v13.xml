@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ContactEditText">
+        <attr format="reference|dimension" name="cet_spanHeight"/>
+        <attr format="reference|dimension" name="cet_spanMaxWidth"/>
+        <attr format="reference|dimension" name="cet_spanPaddingLeft"/>
+        <attr format="reference|dimension" name="cet_spanPaddingRight"/>
+        <attr format="reference|string" name="cet_spanFontFamily"/>
+        <attr format="integer" name="cet_spanTextStyle">
+            <enum name="normal" value="0"/>
+            <enum name="bold" value="1"/>
+            <enum name="italic" value="2"/>
+            <enum name="bold_italic" value="3"/>
+        </attr>
+        <attr format="reference|dimension" name="cet_spanTextSize"/>
+        <attr format="reference|color" name="cet_spanTextColor"/>
+        <attr format="reference|color" name="cet_spanBackgroundColor"/>
+        <attr format="reference|dimension" name="cet_spanSpacing"/>
+    </declare-styleable>
+    <declare-styleable name="ContactView">
+        <attr format="reference" name="cv_buttonSrc"/>
+        <attr format="reference|dimension" name="cv_buttonSize"/>
+        <attr format="reference" name="cv_avatarSrc"/>
+        <attr format="reference|dimension" name="cv_avatarSize"/>
+        <attr format="reference|dimension" name="cv_spacing"/>
+        <attr format="reference|string" name="cv_name"/>
+        <attr format="reference" name="cv_nameTextAppearance"/>
+        <attr format="reference|dimension" name="cv_nameTextSize"/>
+        <attr format="reference|color" name="cv_nameTextColor"/>
+        <attr format="reference|string" name="cv_address"/>
+        <attr format="reference" name="cv_addressTextAppearance"/>
+        <attr format="reference|dimension" name="cv_addressTextSize"/>
+        <attr format="reference|color" name="cv_addressTextColor"/>
+        <attr name="android:minHeight"/>
+    </declare-styleable>
+    <declare-styleable name="WeekView">
+        <attr format="reference|color" name="wv_backgroundColor"/>
+        <attr format="reference|dimension" name="wv_verticalPadding"/>
+        <attr format="reference|dimension" name="wv_horizontalPadding"/>
+        <attr format="reference|integer" name="wv_animDuration"/>
+    </declare-styleable>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>
